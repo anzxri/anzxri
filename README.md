@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anzxri
+- 👋 Hi, I’m Anzari
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning PHP Framework CI
+- 🌱 I’m currently learning PHP Framework CI, Laravel, ETC ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on
 
